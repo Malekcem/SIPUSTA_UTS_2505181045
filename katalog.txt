@@ -1,0 +1,6 @@
+KODE       | JUDUL                     | TAHUN        | LAYAK PINJAM   
+------------------------------------------------------------------
+D001       | E-Book Algoritma          | 2025         | Ya             
+B001       | Pemrograman Java          | 2023         | Ya             
+B002       | Basis Data Lanjut         | 2021         | Tidak          
+M001       | Tech Nusantara            | 2026         | Tidak          
